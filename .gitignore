@@ -2,3 +2,4 @@ node_modules/
 .eslintrc.json
 .prettierignore
 prettierrc.json
+db-connection-string.txt
